@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CicleFormatiu>
+    <NomCicle>Desenvolupament d'Aplicacions Web (CFGS-DAW)</NomCicle>
+    <DuradaTotal>2000 hores</DuradaTotal>
+    <Moduls>
+        <Modul>
+            <NomModul>Sistemes informàtics</NomModul>
+            <Hores>192</Hores>
+            <Continguts>
+                <Contingut>Instal·lació de sistemes operatius</Contingut>
+                <Contingut>Administració de sistemes operatius</Contingut>
+                <Contingut>Gestió de la informació i de recursos en una xarxa</Contingut>
+                <Contingut>Implantació d'aplicacions web</Contingut>
+                <Contingut>Seguretat bàsica</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Bases de dades</NomModul>
+            <Hores>231</Hores>
+            <Continguts>
+                <Contingut>Introducció a les bases de dades</Contingut>
+                <Contingut>Modelat de dades</Contingut>
+                <Contingut>Manipulació de dades</Contingut>
+                <Contingut>Gestió de bases de dades</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Programació</NomModul>
+            <Hores>297</Hores>
+            <Continguts>
+                <Contingut>Conceptes de programació</Contingut>
+                <Contingut>Programació orientada a objectes</Contingut>
+                <Contingut>Desenvolupament de programes senzills</Contingut>
+                <Contingut>Recursivitat i estructures de dades</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Llenguatges de marques i sistemes de gestió d'informació</NomModul>
+            <Hores>132</Hores>
+            <Continguts>
+                <Contingut>Conceptes bàsics sobre llenguatges de marques</Contingut>
+                <Contingut>XML i XHTML</Contingut>
+                <Contingut>Gestió de dades amb llenguatges de marques</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Entorns de desenvolupament</NomModul>
+            <Hores>99</Hores>
+            <Continguts>
+                <Contingut>Entorns integrats de desenvolupament</Contingut>
+                <Contingut>Depuració i proves</Contingut>
+                <Contingut>Control de versions</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Desenvolupament web en entorn client</NomModul>
+            <Hores>231</Hores>
+            <Continguts>
+                <Contingut>HTML, CSS i JavaScript</Contingut>
+                <Contingut>Introducció a frameworks JavaScript</Contingut>
+                <Contingut>Interacció amb el DOM</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Desenvolupament web en entorn servidor</NomModul>
+            <Hores>198</Hores>
+            <Continguts>
+                <Contingut>Introducció a les tecnologies de servidor</Contingut>
+                <Contingut>Desenvolupament d'aplicacions amb llenguatges de servidor</Contingut>
+                <Contingut>Integració de bases de dades en aplicacions web</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Desplegament d'aplicacions web</NomModul>
+            <Hores>99</Hores>
+            <Continguts>
+                <Contingut>Serveis de hosting</Contingut>
+                <Contingut>Protocols de transferència de fitxers</Contingut>
+                <Contingut>Monitorització i optimització de rendiment</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Projecte de desenvolupament d'aplicacions web</NomModul>
+            <Hores>99</Hores>
+            <Continguts>
+                <Contingut>Planificació del projecte</Contingut>
+                <Contingut>Desenvolupament del projecte</Contingut>
+                <Contingut>Documentació tècnica</Contingut>
+            </Continguts>
+        </Modul>
+        <Modul>
+            <NomModul>Formació i orientació laboral</NomModul>
+            <Hores>66</Hores>
+            <Continguts>
+                <Contingut>Drets i deures laborals</Contingut>
+                <Contingut>Seguretat i salut en el treball</Contingut>
+            </Continguts>
+        </Modul>
+    </Moduls>
+</CicleFormatiu>
